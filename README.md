@@ -14,11 +14,11 @@ Zombie Knight is a fast-paced 2D platformer built using **Python** and **Pygame*
 - **Arrow Keys** – Move left and right
 - **Spacebar** – Jump
 - **X** – Attack
-- **C** – Use special ability (if available)
+- **C** – Use special ability
 
 ## Installation & Running the Game
 1. Ensure you have **Python 3.x** installed on your system.
-2. Install **Pygame** if you haven't already:
+2. Install **Pygame**:
    ```bash
    pip install pygame
    ```
